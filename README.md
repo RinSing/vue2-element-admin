@@ -1,5 +1,8 @@
 # vue-admin-rinsing
 
+基于Vue2+elementui的后台框架模板
+
+
 ## Project setup
 
 ```
